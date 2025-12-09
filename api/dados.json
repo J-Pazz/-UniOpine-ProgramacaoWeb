@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "nome": "Sistemas de Informação",
+    "universidade": "Centro Universitário 7 de Setembro - UNI7",
+    "logo_universidade": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_UNI7.png/800px-Logo_UNI7.png",
+    "area_conhecimento": "Tecnologia",
+    "modalidade": "Presencial",
+    "localizacao": "Fortaleza, Ceará",
+    "nota": 4.7,
+    "avaliacoes": [
+      {
+        "usuario": "Carlos Augusto Schappo",
+        "foto_usuario": "https://i.pinimg.com/564x/6b/8b/50/6b8b503e0f33b09bd9f39e38e2e4a28a.jpg",
+        "tempo": "5 dias atrás",
+        "nota": 5,
+        "titulo": "Ambiente ótimo com aulas muito imersivas!",
+        "comentario": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lacus ipsum...",
+        "curtidas": 345
+      },
+      {
+        "usuario": "Érico Chaves Ferreira",
+        "foto_usuario": "https://img.freepik.com/fotos-gratis/vista-lateral-de-um-triste-homem-jovem_23-2147828265.jpg?semt=ais_hybrid&w=740&q=80",
+        "tempo": "11 dias atrás",
+        "nota": 4,
+        "titulo": "Material ótimo e bem estruturado.",
+        "comentario": "Lorem ipsum dolor sit amet...",
+        "curtidas": 87
+      },
+      {
+        "usuario": "Sônia Alves de Rocha",
+        "foto_usuario": "https://e1.pxfuel.com/desktop-wallpaper/651/455/desktop-wallpaper-best-random-people-%C2%B7-random-people.jpg",
+        "tempo": "20 dias atrás",
+        "nota": 5,
+        "titulo": "Professores atenciosos e empenhados!",
+        "comentario": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lacus ipsum...",
+        "curtidas": 93
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Análise e Desenvolvimento de Sistemas",
+    "universidade": "Universidade de Fortaleza - UNIFOR",
+    "logo_universidade": "https://www.unifor.br/documents/20143/637836/marca-unifor-2019.png",
+    "area_conhecimento": "Tecnologia",
+    "modalidade": "Presencial",
+    "localizacao": "Fortaleza, Ceará",
+    "nota": 4.5,
+    "avaliacoes": []
+  },
+  {
+    "id": 3,
+    "nome": "Ciências da Computação",
+    "universidade": "Universidade Federal do Ceará - UFC",
+    "logo_universidade": "https://logodownload.org/wp-content/uploads/2016/09/ufc-logo-universidade.png",
+    "area_conhecimento": "Tecnologia",
+    "modalidade": "Presencial",
+    "localizacao": "Fortaleza, Ceará",
+    "nota": 4.8,
+    "avaliacoes": []
+  },
+  {
+    "id": 4,
+    "nome": "Engenharia de Software",
+    "universidade": "Universidade Federal do Ceará - UFC",
+    "logo_universidade": "https://logodownload.org/wp-content/uploads/2016/09/ufc-logo-universidade.png",
+    "area_conhecimento": "Tecnologia",
+    "modalidade": "Presencial",
+    "localizacao": "Quixadá, Ceará",
+    "nota": 4.8,
+    "avaliacoes": []
+  },
+  {
+    "id": 5,
+    "nome": "Sistemas de Informação",
+    "universidade": "Centro Universitário Christus - Unichristus",
+    "logo_universidade": "https://images.educamaisbrasil.com.br/content/superior/instituicao/logo/g/unichristus.png",
+    "area_conhecimento": "Tecnologia",
+    "modalidade": "Presencial",
+    "localizacao": "Fortaleza, Ceará",
+    "nota": 4.5,
+    "avaliacoes": []
+  },
+  {
+    "id": 6,
+    "nome": "Análise e Desenvolvimento de Sistemas",
+    "universidade": "Centro Universitário Ateneu - UniAteneu",
+    "logo_universidade": "https://uniateneu.edu.br/wp-content/uploads/2020/07/cropped-logo-uniateneu-e1595263713954.png",
+    "area_conhecimento": "Tecnologia",
+    "modalidade": "EAD",
+    "localizacao": "Fortaleza, Ceará",
+    "nota": 4.3,
+    "avaliacoes": []
+  },
+  {
+    "id": 7,
+    "nome": "Design Digital",
+    "universidade": "Universidade Federal do Ceará - UFC",
+    "logo_universidade": "https://logodownload.org/wp-content/uploads/2016/09/ufc-logo-universidade.png",
+    "area_conhecimento": "Tecnologia",
+    "modalidade": "Presencial",
+    "localizacao": "Quixadá, Ceará",
+    "nota": 4.6,
+    "avaliacoes": []
+  }
+]
